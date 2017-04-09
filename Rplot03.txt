@@ -1,0 +1,7 @@
+## plot # 3
+
+> plot(x = ptsf2$pwrdate2, y = ptsf2$Sub_metering_1, type = "l", main = "", xlab = "", ylab = "Energy sub metering")
+> lines( x =ptsf2$pwrdate2,y = ptsf2$Sub_metering_2, col = "red")
+> lines( x =ptsf2$pwrdate2,y = ptsf2$Sub_metering_3, col = "blue")
+legend(x="topright", c("Sub_metering_1","sub_metering_2","sub_metering_3"), horiz=FALSE, cex = 1, col=c("black","red","blue"),lty = c(1,1,1))
+## plot # 4
