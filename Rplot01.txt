@@ -1,2 +1,0 @@
-## plot # 1
-> hist(ptsf2$Global_active_power,col = "red",xlab ="Global Active Power(kilowatts)", Main = "Gloal Active Power")
