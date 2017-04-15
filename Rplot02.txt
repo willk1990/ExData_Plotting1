@@ -1,2 +1,0 @@
-## plot # 2
-> plot(x = ptsf2$pwrdate2, y = ptsf2$Global_active_power, type = "l", main = "", xlab = "", ylab = "Global Active Power (Kilowats)")
